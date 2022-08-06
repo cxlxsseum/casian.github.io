@@ -9,5 +9,6 @@ If you are interested in seeing some of my projects :
 [Linux for Beginners]https://github.com/cxlxsseum/linuxforbeginners/
 
 ## Ways to get in touch with me
-[Facebook]facebook.com/casian.tatar.5
-[Instagram]https://www.instagram.com/cxlxsseum
+[Facebook](facebook.com/casian.tatar.5)
+
+[Instagram](https://www.instagram.com/cxlxsseum)
