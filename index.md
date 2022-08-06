@@ -1,6 +1,6 @@
 ## Hello there!
 Welcome to my website! On this website you will find my projects and a few things about me. :)
-My name is Casian Tatar, i live in Romania and i wanna make it to the U.S whenever i get to do it.
+My name is Casian Tatar, i live in Romania and i wanna make it to the U.S as soon as possible.
 I am interested in programming in HTML, CSS and Python
 
 ## A few projects of mine
