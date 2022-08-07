@@ -8,6 +8,8 @@ If you are interested in seeing some of my projects :
 
 [164 SQL Dorks](https://github.com/cxlxsseum/164-SQL-Dorks)
 
+[Pentesting Tools](https://github.com/cxlxsseum/pentest-tools)
+
 [Linux for Beginners](https://github.com/cxlxsseum/linuxforbeginners/)
 
 ## Ways to get in touch with me
