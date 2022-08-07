@@ -6,11 +6,9 @@ I am interested in programming in HTML, CSS and Python
 ## A few projects of mine
 If you are interested in seeing some of my projects :
 
-[164 SQL Dorks](https://github.com/cxlxsseum/164-SQL-Dorks)
-
 [Pentesting Tools](https://github.com/cxlxsseum/pentest-tools)
 
-[Linux for Beginners](https://github.com/cxlxsseum/linuxforbeginners/)
+[YTDwn](https://github.com/cxlxsseum/YTDwn)
 
 ## Ways to get in touch with me
 [Facebook](https://www.facebook.com/casian.tatar.5)
