@@ -2,10 +2,6 @@
 Hello there! My name is Casian Tatar, im from Romania and im interested in HTML, CSS, Python, JS and Pentesting
 
 # Projects
-[https://github.com/cxlxsseum/YTDwn](YTDwn)
-
-[https://github.com/cxlxsseum/pentest-tools](pentest-tools)
-
-[https://github.com/cxlxsseum/passgen](passgen)
+You can find my projects by going to my GitHub account.
 
 # Feel free to contribute to any of those projects.
